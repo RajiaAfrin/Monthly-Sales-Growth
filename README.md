@@ -51,7 +51,7 @@ The project began with:
 - Data preparation for Power BI reporting
 
 # Dashboard Interaction
--<a href="">Dashboard</a>
+-<a href="https://github.com/RajiaAfrin/Monthly-Sales-Growth/blob/main/Monthly%20Sales%20Growth.pbix">Dashboard</a>
 
 ## Executive Summary
 
