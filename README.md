@@ -7,7 +7,7 @@ Sales performance is one of the most important indicators of business success. M
 This end-to-end analytics project analyzes monthly sales performance using data cleaning, SQL analysis, and interactive Power BI visualizations. The goal is to understand sales growth patterns, evaluate profitability across regions and products, and identify key business drivers.
 
 # Dataset
-
+-<a href="">Dataset</a>
 
 Insights and recommendations are provided on the following key areas:
 
@@ -51,6 +51,7 @@ The project began with:
 - Data preparation for Power BI reporting
 
 # Dashboard Interaction
+-<a href="">Dashboard</a>
 
 ## Executive Summary
 
